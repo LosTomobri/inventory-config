@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/banner.png" alt="Inventory Config banner" width="100%">
+<img src="https://raw.githubusercontent.com/LosTomobri/inventory-config/main/images/banner.png" alt="Inventory Config banner" width="100%">
 
 # Inventory Config
 
@@ -11,7 +11,7 @@
 ![Side](https://img.shields.io/badge/Client%20%26%20Server-required-5865F2?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
-[**Source**](https://github.com/YOUR_USER/YOUR_REPO) &nbsp;•&nbsp; [**Issues**](https://github.com/YOUR_USER/YOUR_REPO/issues)
+[**Source**](https://github.com/LosTomobri/inventory-config) &nbsp;•&nbsp; [**Issues**](https://github.com/LosTomobri/inventory-config/issues)
 
 </div>
 
@@ -31,7 +31,7 @@ Perfect for **modpack makers**, **server owners**, **challenge runs** and **adve
 
 ### Slot Control
 
-<img src="https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/config-screen.png" alt="The Inventory Configuration screen with several slots disabled" width="100%">
+<img src="https://raw.githubusercontent.com/LosTomobri/inventory-config/main/images/config-screen.png" alt="The Inventory Configuration screen with several slots disabled" width="100%">
 
 - Disable **any of the 41 player slots**: hotbar, main inventory, armor and offhand.
 - Click or **drag** to toggle many slots at once. **Enable All** and **Reset** are one button away.
@@ -40,13 +40,13 @@ Perfect for **modpack makers**, **server owners**, **challenge runs** and **adve
 
 ### Compact UI
 
-<img src="https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/compact-ui.png" alt="Inventory before and after disabling a row of slots" width="100%">
+<img src="https://raw.githubusercontent.com/LosTomobri/inventory-config/main/images/compact-ui.png" alt="Inventory before and after disabling a row of slots" width="100%">
 
 Disabled rows do not leave ugly holes: the inventory **shrinks to fit**. It works with the vanilla screens (inventory, chests, furnaces, crafting table, hopper, dispenser and more) and with Curios. Screens from other mods are analyzed automatically, and when one cannot be shrunk its disabled slots are simply covered.
 
 ### Extra Hotbars
 
-<img src="https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/extra-hotbars.png" alt="Extra hotbars placed around the screen" width="100%">
+<img src="https://raw.githubusercontent.com/LosTomobri/inventory-config/main/images/extra-hotbars.png" alt="Extra hotbars placed around the screen" width="100%">
 
 - Create up to **8 extra hotbars**, one per position: *Top Left, Top Center, Top Right, Left, Right, Above Hotbar, Bottom Left, Bottom Right*.
 - Each bar takes up to **5 slots** from your main inventory (slots 9 to 35).
@@ -56,7 +56,7 @@ Disabled rows do not leave ugly holes: the inventory **shrinks to fit**. It work
 
 ### Radial Menu
 
-<img src="https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/radial-menu.png" alt="The radial menu with eight item cells" width="100%">
+<img src="https://raw.githubusercontent.com/LosTomobri/inventory-config/main/images/radial-menu.png" alt="The radial menu with eight item cells" width="100%">
 
 - **8 cells**, each linked to one inventory slot.
 - **Hold** mode: open with the key, release on a cell to pick it. **Toggle** mode: open with the key, pick with a click.
@@ -64,7 +64,7 @@ Disabled rows do not leave ugly holes: the inventory **shrinks to fit**. It work
 
 ### Slot Rules
 
-<img src="https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/slot-rules.png" alt="Slot Rules screen showing fixed, exclusive and no-drop slots" width="100%">
+<img src="https://raw.githubusercontent.com/LosTomobri/inventory-config/main/images/slot-rules.png" alt="Slot Rules screen showing fixed, exclusive and no-drop slots" width="100%">
 
 Set rules on **every inventory slot**:
 
@@ -78,13 +78,13 @@ A built-in item picker supports search by name or id, and `@mod` filters by mod.
 
 ### Profiles
 
-<img src="https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/profiles.png" alt="Profile list with save and load buttons" width="100%">
+<img src="https://raw.githubusercontent.com/LosTomobri/inventory-config/main/images/profiles.png" alt="Profile list with save and load buttons" width="100%">
 
 Save the **whole layout** (disabled slots, extra hotbars, rules and radial menu) under a name, load it any time and switch setups in seconds. Up to 64 profiles per world.
 
 ### Curios Integration (optional)
 
-<img src="https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/images/curios.png" alt="Curios slots shown inside the inventory" width="100%">
+<img src="https://raw.githubusercontent.com/LosTomobri/inventory-config/main/images/curios.png" alt="Curios slots shown inside the inventory" width="100%">
 
 If [Curios API](https://modrinth.com/mod/curios) is installed, you can **show Curios slots directly in the inventory** and hide the Curios button.
 
@@ -169,7 +169,7 @@ Yes, the license is MIT. Feel free to include it in your modpack.
 
 ### Found a bug or have an idea?
 
-[**Open an issue**](https://github.com/YOUR_USER/YOUR_REPO/issues)
+[**Open an issue**](https://github.com/LosTomobri/inventory-config/issues)
 
 Released under the **MIT License**
 
