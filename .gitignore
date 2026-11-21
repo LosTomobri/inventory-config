@@ -1,0 +1,18 @@
+# Gradle
+.gradle/
+build/
+# NeoForge dev
+run/
+runs/
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+bin/
+out/
+# Sistema
+.DS_Store
+Thumbs.db

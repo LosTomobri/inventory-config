@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[1,)"
+license="MIT"
+
+[[mods]]
+modId="inventoryconfig"
+version="0.1.0"
+displayName="Inventory Config"
+description='''Choose which inventory slots are enabled. /inventoryconfig opens a screen with the full inventory: click (or drag) on a slot to disable it, and Save applies it to every player on the server. Also includes: Extra Slots (extra hotbars taken from the main inventory, switched with number keys and the mouse wheel), Slot Rules (per-slot fixed item, exclusive item and no-drop, for every inventory slot), a Radial Menu (8 cells, one inventory slot each, opened with a configurable key, "<" by default), and named profiles that store the whole layout. Operators only.'''
+
+[[dependencies.inventoryconfig]]
+modId="neoforge"
+type="required"
+versionRange="[21.1,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.inventoryconfig]]
+modId="curios"
+type="optional"
+versionRange="[9.0,)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.inventoryconfig]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"
