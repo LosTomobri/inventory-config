@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LosTomobri/inventory-config/main/images/banner.png" alt="Inventory Config banner" width="100%">
-
-# Inventory Config
+<img src="https://raw.githubusercontent.com/LosTomobri/inventory-config/main/images/banner.png" alt="Inventory Config banner" width="75%">
 
 **Take full control of the player inventory, in-game, server-wide, no config files.**
 
