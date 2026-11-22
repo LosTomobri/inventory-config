@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/LosTomobri/inventory-config/main/images/banner.png" alt="Inventory Config banner" width="75%">
+<img src="https://raw.githubusercontent.com/LosTomobri/inventory-config/main/images/banner.png" alt="Inventory Config banner" width="65%">
 
 **Take full control of the player inventory, in-game, server-wide, no config files.**
 
@@ -38,7 +38,7 @@ Perfect for **modpack makers**, **server owners**, **challenge runs** and **adve
 
 ### Compact UI
 
-<img src="https://raw.githubusercontent.com/LosTomobri/inventory-config/main/images/compact-ui.png" alt="Inventory before and after disabling a row of slots" width="100%">
+<img src="https://raw.githubusercontent.com/LosTomobri/inventory-config/main/images/compact-ui.png" alt="Inventory before and after disabling a row of slots" width="65%">
 
 Disabled rows do not leave ugly holes: the inventory **shrinks to fit**. It works with the vanilla screens (inventory, chests, furnaces, crafting table, hopper, dispenser and more) and with Curios. Screens from other mods are analyzed automatically, and when one cannot be shrunk its disabled slots are simply covered.
 
@@ -54,7 +54,7 @@ Disabled rows do not leave ugly holes: the inventory **shrinks to fit**. It work
 
 ### Radial Menu
 
-<img src="https://raw.githubusercontent.com/LosTomobri/inventory-config/main/images/radial-menu.png" alt="The radial menu with eight item cells" width="100%">
+<img src="https://raw.githubusercontent.com/LosTomobri/inventory-config/main/images/radial-menu.png" alt="The radial menu with eight item cells" width="45%">
 
 - **8 cells**, each linked to one inventory slot.
 - **Hold** mode: open with the key, release on a cell to pick it. **Toggle** mode: open with the key, pick with a click.
@@ -82,7 +82,7 @@ Save the **whole layout** (disabled slots, extra hotbars, rules and radial menu)
 
 ### Curios Integration (optional)
 
-<img src="https://raw.githubusercontent.com/LosTomobri/inventory-config/main/images/curios.png" alt="Curios slots shown inside the inventory" width="100%">
+<img src="https://raw.githubusercontent.com/LosTomobri/inventory-config/main/images/curios.png" alt="Curios slots shown inside the inventory" width="50%">
 
 If [Curios API](https://modrinth.com/mod/curios) is installed, you can **show Curios slots directly in the inventory** and hide the Curios button.
 
